@@ -11,8 +11,8 @@
     "durationFormat": "HH:mm:ss.SSS"
   },
   "telegram": {
-    "token": "6633601994:AAGOuQuXsr4sRc9UwPj0dBOgtcujIHb3yKE",
-    "chat": "-1001889843036",
+    "token": "",
+    "chat": "",
     "replyTo": ""
   }
 }
